@@ -126,4 +126,5 @@ Formation control research
 
 Author
 Aditya Kapile
-Artificial Intelligence & Robotics
+MSc Robotics and Intelligent Systems 
+Nottingham Trent University.
