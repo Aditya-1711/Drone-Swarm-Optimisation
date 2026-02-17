@@ -32,7 +32,7 @@ The result is a stable circular formation achieved through decentralised swarm o
 
 ## Results
 
-The swarm converges rapidly (≈10 iterations) to a safe circular configuration while maintaining separation and obstacle clearance.
+The swarm converges rapidly to a safe circular configuration while maintaining separation and obstacle clearance.
 
 <p align="center">
   <img src="outputs/best_swarm.gif" width="520">
